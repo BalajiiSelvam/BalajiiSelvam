@@ -8,7 +8,7 @@ Currently Cultivating My Skills 🌱
 
 I'm dedicated to learning Programming and expanding my expertise in:
 - Mobile App Development 
-- Web Development (Front-end and Back-end)
+- Web Development 
 - Problem-solving and Algorithmic thinking
 - UI/UX Designing
 
