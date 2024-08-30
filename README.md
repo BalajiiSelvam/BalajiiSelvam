@@ -22,6 +22,7 @@ Feel free to reach me through:
 - 💻 GitHub: https://github.com/BalajiiSelvam
 - 📩 Email: balajiselvam245@gmail.com
 - 🤝 LinkedIn: www.linkedin.com/in/balajii-selvam-309459273
+- 📝 Medium: https://medium.com/@balajiselvam245
 - 🙋🏻‍♂ Profile: https://itzmy-portfolio.netlify.app/
 
 Let's build something amazing together! 🚀🎉
