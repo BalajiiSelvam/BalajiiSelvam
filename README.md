@@ -25,6 +25,7 @@ Feel free to reach me through:
 - 📝 Medium: https://medium.com/@balajiselvam245
 - ⌨️ LeetCode: https://leetcode.com/u/b7AUNvh6GX/
 - ⌨️ Gfg: https://www.geeksforgeeks.org/user/balajiseq1cx/
+- ⌨️ Striver: https://takeuforward.org/profile/Balajii
 - 🙋🏻‍♂ Profile: https://itzmy-portfolio.netlify.app/
 
 Let's build something amazing together! 🚀🎉
