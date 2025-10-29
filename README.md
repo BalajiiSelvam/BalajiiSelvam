@@ -7,10 +7,10 @@ I'm @BalajiiSelvam 👨‍🎓, a curious and ambitious Engineering Student with
 Currently Cultivating My Skills 🌱
 
 I'm dedicated to learning Programming and expanding my expertise in:
-- Mobile App Development 
+- Java Programming
 - Web Development 
 - Problem-solving and Algorithmic thinking
-- UI/UX Designing
+- Devops
 
 Collaboration Station 💞🤝 
 
